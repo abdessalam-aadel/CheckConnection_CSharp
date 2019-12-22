@@ -1,0 +1,10 @@
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\bin\Debug\CheckConnection.exe.config
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\bin\Debug\CheckConnection.exe
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\bin\Debug\CheckConnection.pdb
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csprojAssemblyReference.cache
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.Form1.resources
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.Properties.Resources.resources
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csproj.GenerateResource.cache
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csproj.CoreCompileInputs.cache
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.exe
+C:\Users\zakaria\source\repos\CheckConnection\CheckConnection\obj\Debug\CheckConnection.pdb
